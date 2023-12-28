@@ -13,20 +13,22 @@
    <meta name="geo.placename" content="Campinas, São Paulo, Brasil">
 
    <!-- SEO Geral -->
-   <title>StreetWork - Recuperção de Crédito</title>
-   <meta name="description" content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas. Nossa equipe altamente especializada utiliza abordagens inovadoras e estratégias eficazes para recuperar ativos financeiros, melhorar a saúde financeira e impulsionar o crescimento de negócios. Com um compromisso inabalável com a excelência, oferecemos soluções personalizadas, transparentes e éticas para lidar com a inadimplência, protegendo assim os interesses financeiros de nossos clientes. Conte conosco para superar desafios financeiros e alcançar resultados notáveis na recuperação de crédito corporativo." />
-   <meta name="author" content="StreetWork - Recuperção de Crédito">
-   <meta name="robots" content="index">
+   <title>StreetWork - Recuperação de Crédito</title>
+   <meta name="description"
+      content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas." />
+   <meta name="author" content="StreetWork - Recuperação de Crédito">
 
    <!-- Google+ / Schema.org -->
-   <meta itemprop="name" content="StreetWork - Recuperção de Crédito">
-   <meta itemprop="description" content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas. Nossa equipe altamente especializada utiliza abordagens inovadoras e estratégias eficazes para recuperar ativos financeiros, melhorar a saúde financeira e impulsionar o crescimento de negócios. Com um compromisso inabalável com a excelência, oferecemos soluções personalizadas, transparentes e éticas para lidar com a inadimplência, protegendo assim os interesses financeiros de nossos clientes. Conte conosco para superar desafios financeiros e alcançar resultados notáveis na recuperação de crédito corporativo.">
+   <meta itemprop="name" content="StreetWork - Recuperação de Crédito">
+   <meta itemprop="description"
+      content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas." />
    <meta itemprop="image" content="https://streetwork.com.br/assets/img/logo.png">
    <link rel="publisher" href="https://streetwork.com.br/">
 
    <!-- Open Graph Facebook -->
    <meta property="og:title" content="StreetWork - Recuperção de Crédito">
-   <meta property="og:description" content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas. Nossa equipe altamente especializada utiliza abordagens inovadoras e estratégias eficazes para recuperar ativos financeiros, melhorar a saúde financeira e impulsionar o crescimento de negócios. Com um compromisso inabalável com a excelência, oferecemos soluções personalizadas, transparentes e éticas para lidar com a inadimplência, protegendo assim os interesses financeiros de nossos clientes. Conte conosco para superar desafios financeiros e alcançar resultados notáveis na recuperação de crédito corporativo.">
+   <meta property="og:description"
+      content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas.">
    <meta property="og:url" content="https://streetwork.com.br/">
    <meta property="og:site_name" content="StreetWork - Recuperção de Crédito">
    <meta property="og:type" content="website">
@@ -214,7 +216,8 @@
                      192.606V439.894C509.157 447.039 505.345 453.641 499.157 457.214L285 
                      580.858C278.812 584.43 271.188 584.43 265 580.858L50.843 457.214C44.655 453.641 
                      40.843 447.039 40.843 439.894V192.606C40.843 185.461 44.655 178.859 50.843 
-                     175.286L265 51.6423C271.188 48.0697 278.812 48.0696 285 51.6423Z" stroke="black" stroke-width="10" />
+                     175.286L265 51.6423C271.188 48.0697 278.812 48.0696 285 51.6423Z" stroke="black"
+                        stroke-width="10" />
                   </g>
 
                   <rect x="37" width="476" height="300" fill="url(#pattern3)" />
@@ -245,7 +248,7 @@
                </h3>
 
                <h2 class="section__title">
-                 As Principais
+                  As Principais
                </h2>
 
                <p class="skills__description">
@@ -466,9 +469,11 @@
             <form action="processar_formulario.php" method="post" class="contact__form" id="contact-form">
                <div class="contact__group">
                   <input type="text" name="user_name" required placeholder="Coloque seu nome" class="contact__input">
-                  <input type="email" name="user_email" required placeholder="Coloque seu melhor email" class="contact__input">
+                  <input type="email" name="user_email" required placeholder="Coloque seu melhor email"
+                     class="contact__input">
                </div>
-               <textarea name="user_project" required placeholder="Me conte o que você precisa." class="contact__input"></textarea>
+               <textarea name="user_project" required placeholder="Me conte o que você precisa."
+                  class="contact__input"></textarea>
 
                <p class="contact__massage" id="contact-message">
 
