@@ -1,12 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="pt-br">
 
 <head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!-- Required meta tags -->
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <link rel="shortcut icon" href="assets/img/icon.png" type="image/png">
 
-   <!--=============== FAVICON ===============-->
-   <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+   <!-- Geolocalização -->
+   <meta name="geo.position" content="-22.9101744;-47.0593274">
+   <meta name="geo.region" content="BR-SP">
+   <meta name="geo.placename" content="Campinas, São Paulo, Brasil">
+
+   <!-- SEO Geral -->
+   <title>StreetWork - Recuperção de Crédito</title>
+   <meta name="description" content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas. Nossa equipe altamente especializada utiliza abordagens inovadoras e estratégias eficazes para recuperar ativos financeiros, melhorar a saúde financeira e impulsionar o crescimento de negócios. Com um compromisso inabalável com a excelência, oferecemos soluções personalizadas, transparentes e éticas para lidar com a inadimplência, protegendo assim os interesses financeiros de nossos clientes. Conte conosco para superar desafios financeiros e alcançar resultados notáveis na recuperação de crédito corporativo." />
+   <meta name="author" content="StreetWork - Recuperção de Crédito">
+   <meta name="robots" content="index">
+
+   <!-- Google+ / Schema.org -->
+   <meta itemprop="name" content="StreetWork - Recuperção de Crédito">
+   <meta itemprop="description" content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas. Nossa equipe altamente especializada utiliza abordagens inovadoras e estratégias eficazes para recuperar ativos financeiros, melhorar a saúde financeira e impulsionar o crescimento de negócios. Com um compromisso inabalável com a excelência, oferecemos soluções personalizadas, transparentes e éticas para lidar com a inadimplência, protegendo assim os interesses financeiros de nossos clientes. Conte conosco para superar desafios financeiros e alcançar resultados notáveis na recuperação de crédito corporativo.">
+   <meta itemprop="image" content="https://streetwork.com.br/assets/img/logo.png">
+   <link rel="publisher" href="https://streetwork.com.br/">
+
+   <!-- Open Graph Facebook -->
+   <meta property="og:title" content="StreetWork - Recuperção de Crédito">
+   <meta property="og:description" content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas. Nossa equipe altamente especializada utiliza abordagens inovadoras e estratégias eficazes para recuperar ativos financeiros, melhorar a saúde financeira e impulsionar o crescimento de negócios. Com um compromisso inabalável com a excelência, oferecemos soluções personalizadas, transparentes e éticas para lidar com a inadimplência, protegendo assim os interesses financeiros de nossos clientes. Conte conosco para superar desafios financeiros e alcançar resultados notáveis na recuperação de crédito corporativo.">
+   <meta property="og:url" content="https://streetwork.com.br/">
+   <meta property="og:site_name" content="StreetWork - Recuperção de Crédito">
+   <meta property="og:type" content="website">
+   <meta property="og:image" content="https://streetwork.com.br/assets/img/logo.png">
 
    <!--=============== REMIXICONS ===============-->
    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.0.0/fonts/remixicon.css" rel="stylesheet">
@@ -14,7 +38,6 @@
    <!--=============== CSS ===============-->
    <link rel="stylesheet" href="assets/css/styles.css">
 
-   <title>StreetWork</title>
 </head>
 
 <body>
@@ -22,38 +45,38 @@
    <header class="header" id="header">
       <nav class="nav container">
          <a href="" class="nav__logo">
-            Patrick <span>Moz</span>
+            <img src="assets/img/logonav.png" width="50px" height="80px" alt="logo"> <span>StreetWork</span>
          </a>
 
          <div class="nav__menu" id="nav-menu">
             <ul class="nav__list">
                <li class="nav__item">
                   <a href="#home" class="nav__link">
-                     Home
+                     Início
                   </a>
                </li>
 
                <li class="nav__item">
                   <a href="#about" class="nav__link">
-                     About
+                     Sobre
                   </a>
                </li>
 
                <li class="nav__item">
                   <a href="#services" class="nav__link">
-                     Services
+                     Serviços
                   </a>
                </li>
 
                <li class="nav__item">
                   <a href="#projects" class="nav__link">
-                     Projects
+                     Projetos
                   </a>
                </li>
 
                <li class="nav__item">
                   <a href="#contact" class="nav__link">
-                     Contact
+                     Contato
                   </a>
                </li>
 
@@ -83,11 +106,11 @@
                <div class="home__data">
 
                   <h3 class="home__subtitle">
-                     Hello, <span>I’m</span>
+                     Olá, <span>eu sou</span>
                   </h3>
 
                   <h1 class="home__title">
-                     Patrick Moz
+                     Emerson Moraes
                   </h1>
 
                   <h3 class="home__education">Front-end Developer</h3>
@@ -98,7 +121,7 @@
                      in quality work.
                   </p>
 
-                  <a href="#contact" class="button">Let's Talk</a>
+                  <a href="#contact" class="button" style="margin-top: 1rem;">Vamos conversar!</a>
 
                </div>
 
@@ -159,11 +182,11 @@
          <div class="about__container container grid">
             <div class="about__data">
                <h3 class="section__subtitle">
-                  My <span>Intro</span>
+                  Minha <span>Introdução</span>
                </h3>
 
                <h2 class="section__title">
-                  About Me
+                  Sobre mim
                </h2>
 
                <p class="about__description">
@@ -191,8 +214,7 @@
                      192.606V439.894C509.157 447.039 505.345 453.641 499.157 457.214L285 
                      580.858C278.812 584.43 271.188 584.43 265 580.858L50.843 457.214C44.655 453.641 
                      40.843 447.039 40.843 439.894V192.606C40.843 185.461 44.655 178.859 50.843 
-                     175.286L265 51.6423C271.188 48.0697 278.812 48.0696 285 51.6423Z" stroke="black"
-                        stroke-width="10" />
+                     175.286L265 51.6423C271.188 48.0697 278.812 48.0696 285 51.6423Z" stroke="black" stroke-width="10" />
                   </g>
 
                   <rect x="37" width="476" height="300" fill="url(#pattern3)" />
@@ -219,11 +241,11 @@
          <div class="skills__container container grid">
             <div class="skills__data">
                <h3 class="section__subtitle">
-                  Favorite <span>Skills</span>
+                  Em que sou<span> especializado</span>
                </h3>
 
                <h2 class="section__title">
-                  My Skills
+                 As Principais
                </h2>
 
                <p class="skills__description">
@@ -255,11 +277,11 @@
       <!--==================== SERVICES ====================-->
       <section class="services section" id="services">
          <h3 class="section__subtitle">
-            My <span>Services
+            Meus <span>Serviços</span>
          </h3>
 
          <h2 class="section__title">
-            What I Do
+            O que eu faço
          </h2>
 
          <div class="services__container container grid">
@@ -306,7 +328,7 @@
       <!--==================== PROJECTS ====================-->
       <section class="projects section" id="projects">
          <h3 class="section__subtitle">
-            My <span>Jobs</span>
+            Meus <span>Trabalhos</span>
          </h3>
 
          <h2 class="section__title">
@@ -433,22 +455,20 @@
       <!--==================== CONTACT ====================-->
       <section class="contact section" id="contact">
          <h3 class="section__subtitle">
-            Get In <span>Touch</span>
+            Você se <span>interessou?</span>
          </h3>
 
          <h2 class="section__title">
-            Contact Me
+            Entre em contato comigo
          </h2>
 
          <div class="contact__container container grid">
-            <form action="" class="contact__form" id="contact-form">
+            <form action="processar_formulario.php" method="post" class="contact__form" id="contact-form">
                <div class="contact__group">
                   <input type="text" name="user_name" required placeholder="Coloque seu nome" class="contact__input">
-                  <input type="email" name="user_email" required placeholder="Coloque seu melhor email"
-                     class="contact__input">
+                  <input type="email" name="user_email" required placeholder="Coloque seu melhor email" class="contact__input">
                </div>
-               <textarea name="user_project" required placeholder="Me conte o que você precisa."
-                  class="contact__input"></textarea>
+               <textarea name="user_project" required placeholder="Me conte o que você precisa." class="contact__input"></textarea>
 
                <p class="contact__massage" id="contact-message">
 
@@ -467,11 +487,11 @@
       <div class="footer__container container grid">
          <div>
             <h1 class="footer__title">
-               Patrick <span>Moz</span>
+               <img src="assets/img/logonav.png" width="80px" height="80px" alt="logo"> <span>StreetWork</span>
             </h1>
 
             <h2 class="footer__education">
-               Front-end Developer
+               Recuperação de Crédito
             </h2>
          </div>
 
