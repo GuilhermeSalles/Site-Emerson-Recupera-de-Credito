@@ -8,12 +8,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $to = "guibaltazarvs2@gmail.com";
 
     // Assunto do e-mail
-    $subject = "Novo formulário de contato/orçamento";
+    $subject = "Novo formulário de contato Site";
 
     // Mensagem do e-mail
     $message = "Nome: $name\n";
     $message .= "E-mail: $email\n";
-    $message .= "Telefone: $tel\n";
     $message .= "Descrição:\n$desc";
 
     // Cabeçalhos do e-mail
