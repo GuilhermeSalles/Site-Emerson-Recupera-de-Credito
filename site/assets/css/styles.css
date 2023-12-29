@@ -175,6 +175,7 @@ svg {
 }
 
 .nav__logo {
+  margin-top: 1.5rem;
   color: var(--title-color);
   font-weight: var(--font-medium);
 }

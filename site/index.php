@@ -14,21 +14,18 @@
 
    <!-- SEO Geral -->
    <title>StreetWork - Recuperação de Crédito</title>
-   <meta name="description"
-      content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas." />
+   <meta name="description" content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas." />
    <meta name="author" content="StreetWork - Recuperação de Crédito">
 
    <!-- Google+ / Schema.org -->
    <meta itemprop="name" content="StreetWork - Recuperação de Crédito">
-   <meta itemprop="description"
-      content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas." />
+   <meta itemprop="description" content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas." />
    <meta itemprop="image" content="https://streetwork.com.br/assets/img/logo.png">
    <link rel="publisher" href="https://streetwork.com.br/">
 
    <!-- Open Graph Facebook -->
    <meta property="og:title" content="StreetWork - Recuperção de Crédito">
-   <meta property="og:description"
-      content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas.">
+   <meta property="og:description" content="A StreetWork, sediada em Campinas, SP, é líder no mercado de recuperação de crédito para empresas.">
    <meta property="og:url" content="https://streetwork.com.br/">
    <meta property="og:site_name" content="StreetWork - Recuperção de Crédito">
    <meta property="og:type" content="website">
@@ -47,7 +44,7 @@
    <header class="header" id="header">
       <nav class="nav container">
          <a href="" class="nav__logo">
-            <img src="assets/img/logonav.png" width="50px" height="80px" alt="logo"> <span>StreetWork</span>
+            <img src="assets/img/logonav.png" width="150px" height="160px" alt="logo">
          </a>
 
          <div class="nav__menu" id="nav-menu">
@@ -115,7 +112,7 @@
                      Emerson Moraes
                   </h1>
 
-                  <h3 class="home__education">Front-end Developer</h3>
+                  <h3 class="home__education">Especialista em recuperação de crédito e vendas</h3>
 
                   <p class="home_description">
                      With knowledge in web development and
@@ -128,14 +125,11 @@
                </div>
 
                <div class="home__social">
-                  <a href="" target="_blank" class="home__social-link">
-                     <i class="ri-github-fill"></i>
+                  <a href="https://instagram.com/especialistaemersonmoraes?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" class="home__social-link">
+                     <i class="ri-instagram-line"></i>
                   </a>
-                  <a href="" target="_blank" class="home__social-link">
+                  <a href="https://www.facebook.com/profile.php?id=100087239991695&locale=pt_BR" target="_blank" class="home__social-link">
                      <i class="ri-facebook-fill"></i>
-                  </a>
-                  <a href="" target="_blank" class="home__social-link">
-                     <i class="ri-linkedin-box-line"></i>
                   </a>
                </div>
             </div>
@@ -198,7 +192,7 @@
                   projects carried out.
                </p>
 
-               <a href="#contact" class="button">Contact Me</a>
+               <a href="#contact" class="button">Me envie um email!</a>
             </div>
             <div class="about__image">
                <svg class="about__blob" viewBox="0 0 550 592" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -216,8 +210,7 @@
                      192.606V439.894C509.157 447.039 505.345 453.641 499.157 457.214L285 
                      580.858C278.812 584.43 271.188 584.43 265 580.858L50.843 457.214C44.655 453.641 
                      40.843 447.039 40.843 439.894V192.606C40.843 185.461 44.655 178.859 50.843 
-                     175.286L265 51.6423C271.188 48.0697 278.812 48.0696 285 51.6423Z" stroke="black"
-                        stroke-width="10" />
+                     175.286L265 51.6423C271.188 48.0697 278.812 48.0696 285 51.6423Z" stroke="black" stroke-width="10" />
                   </g>
 
                   <rect x="37" width="476" height="300" fill="url(#pattern3)" />
@@ -469,11 +462,9 @@
             <form action="processar_formulario.php" method="post" class="contact__form" id="contact-form">
                <div class="contact__group">
                   <input type="text" name="user_name" required placeholder="Coloque seu nome" class="contact__input">
-                  <input type="email" name="user_email" required placeholder="Coloque seu melhor email"
-                     class="contact__input">
+                  <input type="email" name="user_email" required placeholder="Coloque seu melhor email" class="contact__input">
                </div>
-               <textarea name="user_project" required placeholder="Me conte o que você precisa."
-                  class="contact__input"></textarea>
+               <textarea name="user_project" required placeholder="Me conte o que você precisa." class="contact__input"></textarea>
 
                <p class="contact__massage" id="contact-message">
 
@@ -492,26 +483,18 @@
       <div class="footer__container container grid">
          <div>
             <h1 class="footer__title">
-               <img src="assets/img/logonav.png" width="80px" height="80px" alt="logo"> <span>StreetWork</span>
+               <img src="assets/img/logonav.png" width="150px" height="180px" alt="logo">
             </h1>
-
-            <h2 class="footer__education">
-               Recuperação de Crédito
-            </h2>
          </div>
 
          <div class="footer__social">
 
-            <a href="" target="_blank" class="footer__social-link">
+            <a href="https://www.facebook.com/profile.php?id=100087239991695&locale=pt_BR" target="_blank" class="footer__social-link">
                <i class="ri-facebook-circle-line"></i>
             </a>
 
-            <a href="" target="_blank" class="footer__social-link">
+            <a href="https://instagram.com/especialistaemersonmoraes?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" class="footer__social-link">
                <i class="ri-instagram-line"></i>
-            </a>
-
-            <a href="" target="_blank" class="footer__social-link">
-               <i class="ri-twitter-line"></i>
             </a>
 
          </div>
