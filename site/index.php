@@ -56,12 +56,6 @@
                </li>
 
                <li class="nav__item">
-                  <a href="#about" class="nav__link">
-                     Sobre
-                  </a>
-               </li>
-
-               <li class="nav__item">
                   <a href="#services" class="nav__link">
                      Serviços
                   </a>
@@ -177,12 +171,12 @@
                </h2>
 
                <p class="about__description">
-                  Não importa o tamanho da dívida, 
-                  se você teve seu CPF ou CNPJ inscrito 
-                  nos órgãos de proteção ao crédito, com 
-                  certeza você tem dificuldades de acesso 
-                  à qualquer linha de crédito, como Cartões 
-                  de Crédito, Financiamentos, Crédito Pessoal 
+                  Não importa o tamanho da dívida,
+                  se você teve seu CPF ou CNPJ inscrito
+                  nos órgãos de proteção ao crédito, com
+                  certeza você tem dificuldades de acesso
+                  à qualquer linha de crédito, como Cartões
+                  de Crédito, Financiamentos, Crédito Pessoal
                   ou Empresarial.
                </p>
 
@@ -228,229 +222,67 @@
 
       <!--==================== SERVICES ====================-->
       <section class="services section" id="services">
-         <h3 class="section__subtitle">
-            Meus <span>Serviços</span>
-         </h3>
 
          <h2 class="section__title">
-            O que eu faço
+            Meus <span>Serviços</span>
          </h2>
 
          <div class="services__container container grid">
 
             <article class="services__card">
-               <i class="ri-layout-3-line services__icon"></i>
+               <i class="ri-bar-chart-grouped-line services__icon"></i>
                <h2 class="services__title">
-                  Web Developer
+                  Recuperação de Score
                </h2>
                <p class="services__description">
-                  Development of custom web pages.
-                  Using current technologies and
-                  libraries of the labor field.
+                  Quanto mais alto seu Score, mais chances no mercado de crédito você pode ter!
                </p>
             </article>
 
             <article class="services__card">
-               <i class="ri-pantone-line services__icon"></i>
+               <i class="ri-shield-check-line services__icon"></i>
                <h2 class="services__title">
-                  UI/UX Designer
+                  Blindagem de CPF/CNPJ
                </h2>
                <p class="services__description">
-                  I offer design of web interfaces and
-                  mobile applications, design made in
-                  figma, adobe xd and sketch.
+                  Blindagem por 12 Meses, o crédito pode ser um aliado na hora de reorganizar o orçamento caso seja bem utilizado.
                </p>
             </article>
 
             <article class="services__card">
-               <i class="ri-pen-nib-line services__icon"></i>
+               <i class="ri-bank-line services__icon"></i>
                <h2 class="services__title">
-                  Graphic Design
+                  BACEN - Banco Central
                </h2>
                <p class="services__description">
-                  I make designs at the client's request,
-                  banner design, posters, digital
-                  designs among others.
+                  Ter o nome limpo significa ter a sua liberdade financeira de volta. Retire seu nome da lista de restrição do BACEN e volte a ter liberdade financeira!
                </p>
             </article>
 
-         </div>
-      </section>
-
-      
-      <!--==================== SKILLS ====================-->
-      <section class="skills section">
-         <div class="skills__container container grid">
-            <div class="skills__data">
-               <h3 class="section__subtitle">
-                  Em que sou<span> especializado</span>
-               </h3>
-
-               <h2 class="section__title">
-                  As Principais
+            <article class="services__card">
+               <i class="ri-admin-line services__icon"></i>
+               <h2 class="services__title">
+                  Remoção dos principais sites jurídicos
                </h2>
-
-               <p class="skills__description">
-                  See fully what skills I have and perform,
-                  to develop the projects for you.
+               <p class="services__description">
+                  Google, JusBrasil, Escavador, Radar e muitos outros!
                </p>
-               <a href="#projects" class="button">See Projects</a>
-            </div>
-
-            <div class="skills__content">
-               <ol class="skills__group">
-                  <li class="skills__item">HTML & CSS</li>
-                  <li class="skills__item">JAvaScript</li>
-                  <li class="skills__item">Bootstrap</li>
-                  <li class="skills__item">React</li>
-               </ol>
-
-               <ol class="skills__group" start="5">
-                  <li class="skills__item">Git & Github</li>
-                  <li class="skills__item">Figma</li>
-                  <li class="skills__item">Sketch</li>
-               </ol>
-            </div>
-
-         </div>
-
-      </section>
-
-      <!--==================== PROJECTS ====================-->
-      <section class="projects section" id="projects">
-         <h3 class="section__subtitle">
-            Meus <span>Trabalhos</span>
-         </h3>
-
-         <h2 class="section__title">
-            Recent Projects
-         </h2>
-
-         <div class="projects__container container grid">
-            <article class="projects__card">
-               <img src="assets/img/project-img-1.jpg" alt="projects image" class="projects__img">
-
-               <div class="projects__modal">
-                  <span class="projects__subtitle">
-                     Web
-                  </span>
-
-                  <h2 class="prjects__title">
-                     Modern website
-                  </h2>
-
-                  <a href="" class="projects__button">
-                     View demo <i class="ri-external-link-line"></i>
-                  </a>
-               </div>
-
-            </article>
-
-            <article class="projects__card">
-               <img src="assets/img/project-img-2.jpg" alt="projects image" class="projects__img">
-
-               <div class="projects__modal">
-                  <span class="projects__subtitle">
-                     Web
-                  </span>
-
-                  <h2 class="prjects__title">
-                     Modern website
-                  </h2>
-
-                  <a href="" class="projects__button">
-                     View demo <i class="ri-external-link-line"></i>
-                  </a>
-               </div>
-
-            </article>
-
-            <article class="projects__card">
-               <img src="assets/img/project-img-3.jpg" alt="projects image" class="projects__img">
-
-               <div class="projects__modal">
-                  <span class="projects__subtitle">
-                     Web
-                  </span>
-
-                  <h2 class="prjects__title">
-                     Modern website
-                  </h2>
-
-                  <a href="" class="projects__button">
-                     View demo <i class="ri-external-link-line"></i>
-                  </a>
-               </div>
-
-            </article>
-
-            <article class="projects__card">
-               <img src="assets/img/project-img-4.jpg" alt="projects image" class="projects__img">
-
-               <div class="projects__modal">
-                  <span class="projects__subtitle">
-                     Web
-                  </span>
-
-                  <h2 class="prjects__title">
-                     Modern website
-                  </h2>
-
-                  <a href="" class="projects__button">
-                     View demo <i class="ri-external-link-line"></i>
-                  </a>
-               </div>
-
-            </article>
-
-            <article class="projects__card">
-               <img src="assets/img/project-img-5.jpg" alt="projects image" class="projects__img">
-
-               <div class="projects__modal">
-                  <span class="projects__subtitle">
-                     Web
-                  </span>
-
-                  <h2 class="prjects__title">
-                     Modern website
-                  </h2>
-
-                  <a href="" class="projects__button">
-                     View demo <i class="ri-external-link-line"></i>
-                  </a>
-               </div>
-
-            </article>
-
-            <article class="projects__card">
-               <img src="assets/img/project-img-6.jpg" alt="projects image" class="projects__img">
-
-               <div class="projects__modal">
-                  <span class="projects__subtitle">
-                     Web
-                  </span>
-
-                  <h2 class="prjects__title">
-                     Modern website
-                  </h2>
-
-                  <a href="" class="projects__button">
-                     View demo <i class="ri-external-link-line"></i>
-                  </a>
-               </div>
             </article>
 
          </div>
       </section>
+
+
 
       <!--==================== CONTACT ====================-->
       <section class="contact section" id="contact">
-         <h3 class="section__subtitle">
+      <h2 class="section__title">
             Você se <span>interessou?</span>
-         </h3>
+         </h2>
 
-         <h2 class="section__title">
-            Entre em contato comigo
+
+         <h2 class="section__subtitle">
+            Entre em <span>contato comigo</span>
          </h2>
 
          <div class="contact__container container grid">

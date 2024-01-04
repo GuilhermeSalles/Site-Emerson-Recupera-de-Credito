@@ -134,7 +134,7 @@ svg {
 .section__title,
 .section__subtitle {
   text-align: center;
-  color: var(--first-color);
+  color: white;
   font-weight: var(--font-semi-bold);
 }
 
@@ -148,7 +148,7 @@ svg {
   margin-bottom: .25rem;
 }
 
-.section__subtitle span {
+.section__title span {
   color: var(--first-color);
 }
 
@@ -815,12 +815,12 @@ svg {
   }
 
   .services__container{
-    grid-template-columns: repeat(3, 352px);
+    grid-template-columns: repeat(4, 260px);
     padding-block: 2.5rem 4rem;
   }
 
   .projects__container{
-    grid-template-columns: repeat(3, 350px);
+    grid-template-columns: repeat(4, 260px);
     row-gap: 3rem;
     padding-block: 2.5rem 4rem;
   }
