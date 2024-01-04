@@ -134,7 +134,7 @@ svg {
 .section__title,
 .section__subtitle {
   text-align: center;
-  color: var(--title-color);
+  color: var(--first-color);
   font-weight: var(--font-semi-bold);
 }
 
@@ -327,7 +327,7 @@ svg {
 }
 
 /*=============== BUTTON ===============*/
-.button{
+.button {
   display: inline-block;
   background-color: var(--first-color);
   padding: 1rem 1.75rem;
@@ -363,12 +363,9 @@ svg {
 }
 
 .about__blob path{
-  stroke: var(--first-color);
+  stroke: var(--body-color);
 }
 /*=============== SKILLS ===============*/
-.skills{
-  background-color: var(--container-color);
-}
 
 .skills__container{
   padding-bottom: 2rem;
@@ -410,6 +407,10 @@ svg {
 }
 
 /*=============== SERVICES ===============*/
+.services{
+  background-color: var(--container-color);
+}
+
 .services__container{
   row-gap: 2rem;
   padding-block: 1rem;
@@ -417,10 +418,10 @@ svg {
 
 .services__card{
   text-align: center;
-  background-color: var(--container-color);
+  background-color: var(--body-color);
   padding: 3rem 1.25rem;
   border-radius: 1rem;
-  border: 2px solid var(--container-color);
+  border: 2px solid var(--body-color);
   transition: border .4s;
 }
 

@@ -104,23 +104,17 @@
             <div class="home__content">
                <div class="home__data">
 
-                  <h3 class="home__subtitle">
-                     Olá, <span>eu sou</span>
-                  </h3>
-
                   <h1 class="home__title">
-                     Emerson Moraes
+                     Antes de pagar as suas dívidas!
                   </h1>
 
-                  <h3 class="home__education">Especialista em recuperação de crédito e vendas</h3>
+                  <h3 class="home__education"> Limpe o nome da sua empresa!</h3>
 
                   <p class="home_description">
-                     With knowledge in web development and
-                     design, I offer the best projects resulting
-                     in quality work.
+                     Livre-se da burocracia, recupere seu poder de compra e faça seus sonhos acontecerem!
                   </p>
 
-                  <a href="#contact" class="button" style="margin-top: 1rem;">Vamos conversar!</a>
+                  <a href="#contact" class="button" style="margin-top: 1rem;">Limpe o nome da sua empresa agora!</a>
 
                </div>
 
@@ -177,22 +171,22 @@
       <section class="about section" id="about">
          <div class="about__container container grid">
             <div class="about__data">
-               <h3 class="section__subtitle">
-                  Minha <span>Introdução</span>
-               </h3>
 
                <h2 class="section__title">
-                  Sobre mim
+                  Em até 30 dias!
                </h2>
 
                <p class="about__description">
-                  Frontend developer, I create web pages with
-                  UI / UX user interface, I have years of
-                  experience and many clients are happy with the
-                  projects carried out.
+                  Não importa o tamanho da dívida, 
+                  se você teve seu CPF ou CNPJ inscrito 
+                  nos órgãos de proteção ao crédito, com 
+                  certeza você tem dificuldades de acesso 
+                  à qualquer linha de crédito, como Cartões 
+                  de Crédito, Financiamentos, Crédito Pessoal 
+                  ou Empresarial.
                </p>
 
-               <a href="#contact" class="button">Me envie um email!</a>
+               <a href="#contact" class="button">Entre em contato comigo!</a>
             </div>
             <div class="about__image">
                <svg class="about__blob" viewBox="0 0 550 592" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -225,49 +219,11 @@
                      </pattern>
 
                      <!-- Insert your profile (recommended size: 640 x 940) -->
-                     <image class="about_img" id="imageBorder" width="640" height="940" href="assets/img/perfil.png" />
+                     <image class="about_img" id="imageBorder" width="640" height="940" href="assets/img/score.png" />
                   </defs>
                </svg>
             </div>
          </div>
-      </section>
-
-      <!--==================== SKILLS ====================-->
-      <section class="skills section">
-         <div class="skills__container container grid">
-            <div class="skills__data">
-               <h3 class="section__subtitle">
-                  Em que sou<span> especializado</span>
-               </h3>
-
-               <h2 class="section__title">
-                  As Principais
-               </h2>
-
-               <p class="skills__description">
-                  See fully what skills I have and perform,
-                  to develop the projects for you.
-               </p>
-               <a href="#projects" class="button">See Projects</a>
-            </div>
-
-            <div class="skills__content">
-               <ol class="skills__group">
-                  <li class="skills__item">HTML & CSS</li>
-                  <li class="skills__item">JAvaScript</li>
-                  <li class="skills__item">Bootstrap</li>
-                  <li class="skills__item">React</li>
-               </ol>
-
-               <ol class="skills__group" start="5">
-                  <li class="skills__item">Git & Github</li>
-                  <li class="skills__item">Figma</li>
-                  <li class="skills__item">Sketch</li>
-               </ol>
-            </div>
-
-         </div>
-
       </section>
 
       <!--==================== SERVICES ====================-->
@@ -319,6 +275,45 @@
             </article>
 
          </div>
+      </section>
+
+      
+      <!--==================== SKILLS ====================-->
+      <section class="skills section">
+         <div class="skills__container container grid">
+            <div class="skills__data">
+               <h3 class="section__subtitle">
+                  Em que sou<span> especializado</span>
+               </h3>
+
+               <h2 class="section__title">
+                  As Principais
+               </h2>
+
+               <p class="skills__description">
+                  See fully what skills I have and perform,
+                  to develop the projects for you.
+               </p>
+               <a href="#projects" class="button">See Projects</a>
+            </div>
+
+            <div class="skills__content">
+               <ol class="skills__group">
+                  <li class="skills__item">HTML & CSS</li>
+                  <li class="skills__item">JAvaScript</li>
+                  <li class="skills__item">Bootstrap</li>
+                  <li class="skills__item">React</li>
+               </ol>
+
+               <ol class="skills__group" start="5">
+                  <li class="skills__item">Git & Github</li>
+                  <li class="skills__item">Figma</li>
+                  <li class="skills__item">Sketch</li>
+               </ol>
+            </div>
+
+         </div>
+
       </section>
 
       <!--==================== PROJECTS ====================-->
