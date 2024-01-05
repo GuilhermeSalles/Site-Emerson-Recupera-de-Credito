@@ -152,6 +152,10 @@ svg {
   color: var(--first-color);
 }
 
+.section__subtitle span {
+  color: var(--first-color);
+}
+
 .main {
   overflow: hidden;
   /* For animation ScrollReveal */
@@ -363,7 +367,7 @@ svg {
 }
 
 .about__blob path{
-  stroke: var(--body-color);
+  stroke: var(--first-color);
 }
 /*=============== SKILLS ===============*/
 
@@ -386,20 +390,19 @@ svg {
 }
 
 .skills__content{
-  grid-template-columns: repeat(2, max-content);
-  column-gap: 4rem;
+  margin-top: 1.15rem;
+  column-gap: 3rem;
   justify-content: center;
-  align-items: baseline;
+  align-items: center;
 }
 
-.skills__group{
-  row-gap: 1rem;
-  list-style: decimal-leading-zero;
-}
 
 .skills__item{
-  font-weight: var(--font-medium);
+  list-style: none;
   color: var(--title-color);
+  justify-content: center;
+  align-items: center;
+  font-size: var(--smaller-font-size);
 }
 
 .skills__item::marker{
@@ -442,6 +445,13 @@ svg {
 }
 
 /*=============== PROJECTS ===============*/
+.icon__process{
+  display: block;
+  font-size: 2rem;
+  color: var(--first-color);
+  margin-bottom: .75rem;
+}
+
 .projects{
   background-color: var(--container-color);
 }
@@ -513,6 +523,10 @@ svg {
 }
 
 /*=============== CONTACT ===============*/
+.contact{
+  background-color: var(--container-color);
+}
+
 .contact__container{
   padding-top: 1rem;
 }
@@ -530,7 +544,7 @@ svg {
 .contact__input{
   padding: 1rem 1.25rem;
   border-radius: .5rem;
-  background-color: var(--container-color);
+  background-color: var(--body-color);
   color: var(--title-color);
 }
 
@@ -559,7 +573,7 @@ svg {
 
 /*=============== FOOTER ===============*/
 .footer{
-  background-color: var(--container-color);
+  background-color: var(--body-color);
   padding-block: 3.5rem 2rem;
 }
 
