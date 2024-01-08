@@ -63,7 +63,13 @@
 
                <li class="nav__item">
                   <a href="#processo" class="nav__link">
-                     Processo
+                     Como Funciona
+                  </a>
+               </li>
+
+               <li class="nav__item">
+                  <a href="#sobre" class="nav__link">
+                     Sobre mim
                   </a>
                </li>
 
@@ -113,6 +119,9 @@
                </div>
 
                <div class="home__social">
+                  <a href="https://wa.me/551997181679" target="_blank" class="home__social-link">
+                     <i class="ri-whatsapp-fill"></i>
+                  </a>
                   <a href="https://instagram.com/especialistaemersonmoraes?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" class="home__social-link">
                      <i class="ri-instagram-line"></i>
                   </a>
@@ -163,6 +172,9 @@
 
       <!--==================== ABOUT ====================-->
       <section class="about section" id="about">
+         <h2 class="section__title">
+         Recupere<span> seu score</span>
+         </h2>
          <div class="about__container container grid">
             <div class="about__data">
 
@@ -180,7 +192,7 @@
                   ou Empresarial.
                </p>
 
-               <a href="#contact" class="button">Entre em contato comigo!</a>
+               <a href="https://wa.me/551997181679" class="button">Entre em contato comigo!</a>
             </div>
             <div class="about__image">
                <img src="assets/img/score.png" alt="image" width="640px" height="940px">
@@ -200,40 +212,67 @@
             <article class="services__card">
                <i class="ri-bar-chart-grouped-line services__icon"></i>
                <h2 class="services__title">
-                  Recuperação de Score
+                  Recuperação Score
                </h2>
                <p class="services__description">
-                  Quanto mais alto seu Score, mais chances no mercado de crédito você pode ter!
+                  Recupere sua pontuação prévia à negativação, ampliando suas chances de negociação com fornecedores e outras oportunidades no mercado de crédito.
                </p>
             </article>
 
             <article class="services__card">
                <i class="ri-shield-check-line services__icon"></i>
                <h2 class="services__title">
-                  Blindagem de CPF/CNPJ
+                  Blindagem preventiva
                </h2>
                <p class="services__description">
-                  Blindagem por 12 Meses, o crédito pode ser um aliado na hora de reorganizar o orçamento caso seja bem utilizado.
+                  Recuperamos a pontuação mais alta do seu CNPJ/CPF anterior à negativação,
+                  aumentando as chances da sua empresa para negociações com fornecedores e
+                  abrindo portas para outras oportunidades no mercado de crédito.
                </p>
             </article>
 
             <article class="services__card">
                <i class="ri-bank-line services__icon"></i>
                <h2 class="services__title">
-                  BACEN - Banco Central
+                  BACEN - CADIN
                </h2>
                <p class="services__description">
-                  Ter o nome limpo significa ter a sua liberdade financeira de volta. Retire seu nome da lista de restrição do BACEN e volte a ter liberdade financeira!
+                  Por 12 meses qualquer divida adquirida em seu CNPJ/CPF
+                  e que não consiga efetuar o pagamento, NÃO entrará nós órgãos
+                  de proteção ao crédito.
                </p>
             </article>
 
             <article class="services__card">
                <i class="ri-admin-line services__icon"></i>
                <h2 class="services__title">
-                  Remoção dos principais sites jurídicos
+                  Suspensão das Dividas
                </h2>
                <p class="services__description">
-                  Google, JusBrasil, Escavador, Radar e muitos outros!
+                  Retiramos apontamentos específicos destes órgãos que tanto prejudica o
+                  seu CNPJ/CPF trazendo sua empresa de volta ao mercado de crédito.
+               </p>
+            </article>
+
+            <article class="services__card">
+               <i class="ri-file-damage-line services__icon"></i>
+               <h2 class="services__title">
+                  Histórico de Inadimplência
+               </h2>
+               <p class="services__description">
+                  Sem que você precise pagar suas dividas, todos os
+                  apontamentos que seu CNPJ/CPF tiver nos órgãos SERASA/SPC/CARTÓRIO serão
+                  retirados definitivamente através de liminar judicial.
+               </p>
+            </article>
+
+            <article class="services__card">
+               <i class="ri-emotion-happy-line services__icon"></i>
+               <h2 class="services__title">
+                  Reclame aqui!
+               </h2>
+               <p class="services__description">
+                  Faremos a limpeza do histórico de Inadimplência do seu CNPJ/CPF dos últimos 15 anos.
                </p>
             </article>
 
@@ -243,7 +282,7 @@
       <!--==================== PROCESS ====================-->
       <section class="about section" id="processo">
          <h2 class="section__title simples__title">
-            <span>Simplicidade</span>
+            <span>Como </span>Funciona
          </h2>
 
          <h3 class="section__subtitle simples__subtitle">
@@ -255,10 +294,9 @@
 
                <div class="skills__content about__description">
                   <ol class="skills__group">
-                     <li class="skills__item"><i class="ri-shield-check-line icon__process"></i>
-                        Total Segurança - seguindo os padrões LGPD</li>
-                     <li class="skills__item"><i class="ri-file-upload-line icon__process"></i> Contrato reconhecido em cartório</li>
-                     <li class="skills__item"><i class="ri-admin-line icon__process"></i> Vamos agir em sua defesas</li>
+                     <li class="skills__item"><i class="ri-shield-check-line icon__process"></i> Garantia total de segurança, com todo o processo conduzido de acordo com os padrões jurídicos da LGPD.</li>
+                     <li class="skills__item"><i class="ri-file-upload-line icon__process"></i> Início do processo através de contrato jurídico</li>
+                     <li class="skills__item"><i class="ri-admin-line icon__process"></i> Vamos agir em sua defesa</li>
                   </ol>
 
                </div>
@@ -301,7 +339,7 @@
       </section>
 
       <!--==================== AGENDA ====================-->
-      <section class="about section" id="contact">
+      <section class="about section" id="sobre">
          <div class="about__container container grid">
             <div class="about__data">
                <h2 class="section__subtitle">
@@ -309,7 +347,7 @@
                </h2>
 
                <h3 class="section__title">
-                  Estou a sua espera!
+                  Quem sou eu!
                </h3>
 
                <p class="about__description">
@@ -320,7 +358,7 @@
                </p>
 
 
-               <a href="#contact" class="button">Entre em contato!</a>
+               <a href="https://wa.me/551997181679" class="button">Entre em contato!</a>
             </div>
             <div class="about__image">
                <svg class="about__blob" viewBox="0 0 550 592" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -362,7 +400,7 @@
 
 
       <!--==================== CONTACT ====================-->
-      <section class="contact section">
+      <section class="contact section" id="contact">
          <h2 class="section__title">
             Você se <span>interessou?</span>
          </h2>

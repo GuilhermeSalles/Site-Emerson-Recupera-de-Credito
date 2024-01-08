@@ -829,12 +829,12 @@ svg {
   }
 
   .services__container{
-    grid-template-columns: repeat(4, 260px);
+    grid-template-columns: repeat(3, 360px);
     padding-block: 2.5rem 4rem;
   }
 
   .projects__container{
-    grid-template-columns: repeat(4, 260px);
+    grid-template-columns: repeat(3, 360px);
     row-gap: 3rem;
     padding-block: 2.5rem 4rem;
   }
