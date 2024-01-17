@@ -114,7 +114,7 @@
                      Livre-se da burocracia, recupere seu poder de compra e faça seus sonhos acontecerem!
                   </p>
 
-                  <a href="#contact" class="button" style="margin-top: 1rem;">Limpe o nome da sua empresa agora!</a>
+                  <a href="https://wa.me/551997181679" class="button" style="margin-top: 1rem;">Limpe o nome da sua empresa agora!</a>
 
                </div>
 
@@ -192,7 +192,7 @@
                   ou Empresarial.
                </p>
 
-               <a href="https://wa.me/551997181679" class="button">Entre em contato comigo!</a>
+               <a href="https://wa.me/551997181679" class="button">Recupere seu score agora!</a>
             </div>
             <div class="about__image">
                <img src="assets/img/score.png" alt="image" width="640px" height="940px">
