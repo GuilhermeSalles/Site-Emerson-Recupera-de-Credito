@@ -44,7 +44,7 @@
    <header class="header" id="header">
       <nav class="nav container">
          <a href="" class="nav__logo">
-            <img src="assets/img/logonav.png" width="150px" height="160px" alt="logo">
+            <img src="assets/img/logonav.png" width="150px" height="160px" style="margin-top: -1rem;" alt="logo">
          </a>
 
          <div class="nav__menu" id="nav-menu">
@@ -105,10 +105,10 @@
                <div class="home__data">
 
                   <h1 class="home__title">
-                     Antes de pagar as suas dívidas!
+                     Já pensou em limpar o nome da sua empresa
                   </h1>
 
-                  <h3 class="home__education"> Limpe o nome da sua empresa!</h3>
+                  <h3 class="home__education">sem precisar pagar suas dividas?</h3>
 
                   <p class="home_description">
                      Livre-se da burocracia, recupere seu poder de compra e faça seus sonhos acontecerem!
@@ -173,13 +173,13 @@
       <!--==================== ABOUT ====================-->
       <section class="about section" id="about">
          <h2 class="section__title">
-         Recupere<span> seu score</span>
+         Garanta seu <span>resultado</span>
          </h2>
          <div class="about__container container grid">
             <div class="about__data">
 
                <h2 class="section__title">
-                  Em até 30 dias!
+                  Em 30 dias!
                </h2>
 
                <p class="about__description">
@@ -215,7 +215,8 @@
                   Recuperação Score
                </h2>
                <p class="services__description">
-                  Recupere sua pontuação prévia à negativação, ampliando suas chances de negociação com fornecedores e outras oportunidades no mercado de crédito.
+                  Recuperamos a pontuação do seu SCORE perdida pelas dividas e históricos negativos do
+                  seu CNPJ/CPF.
                </p>
             </article>
 
@@ -225,9 +226,7 @@
                   Blindagem preventiva
                </h2>
                <p class="services__description">
-                  Recuperamos a pontuação mais alta do seu CNPJ/CPF anterior à negativação,
-                  aumentando as chances da sua empresa para negociações com fornecedores e
-                  abrindo portas para outras oportunidades no mercado de crédito.
+                  Seu CNPJ/CPF ficará protegido por 12 meses contra dívidas futuras nos órgãos de proteção ao crédito.
                </p>
             </article>
 
@@ -237,9 +236,7 @@
                   BACEN - CADIN
                </h2>
                <p class="services__description">
-                  Por 12 meses qualquer divida adquirida em seu CNPJ/CPF
-                  e que não consiga efetuar o pagamento, NÃO entrará nós órgãos
-                  de proteção ao crédito.
+                  Retiramos os apontamentos tanto do BANCO CENTRAL como da RECEITA FEDERAL.
                </p>
             </article>
 
@@ -249,12 +246,12 @@
                   Suspensão das Dividas
                </h2>
                <p class="services__description">
-                  Retiramos apontamentos específicos destes órgãos que tanto prejudica o
-                  seu CNPJ/CPF trazendo sua empresa de volta ao mercado de crédito.
+                  Qualquer dívida do seu CNPJ/CPF que esteja no SPC/SERASA/CARTÓRIO serão suspensas
+                  em definitivo!
                </p>
             </article>
 
-            <article class="services__card">
+            <!-- <article class="services__card">
                <i class="ri-file-damage-line services__icon"></i>
                <h2 class="services__title">
                   Histórico de Inadimplência
@@ -264,7 +261,7 @@
                   apontamentos que seu CNPJ/CPF tiver nos órgãos SERASA/SPC/CARTÓRIO serão
                   retirados definitivamente através de liminar judicial.
                </p>
-            </article>
+            </article> -->
 
             <article class="services__card">
                <i class="ri-emotion-happy-line services__icon"></i>
@@ -272,7 +269,9 @@
                   Reclame aqui!
                </h2>
                <p class="services__description">
-                  Faremos a limpeza do histórico de Inadimplência do seu CNPJ/CPF dos últimos 15 anos.
+                  Gerenciamento de imagem. Exclusão de sites juridicos como:
+                  JUSBRASIL/JUSTIÇA ONLINE/ ESCAVADOR. Aumentamos a poutuação do
+                  GOOGLE e retiramos comentários negativos do GOOGLE e RECLAME AQUI.
                </p>
             </article>
 
@@ -294,9 +293,14 @@
 
                <div class="skills__content about__description">
                   <ol class="skills__group">
-                     <li class="skills__item"><i class="ri-shield-check-line icon__process"></i> Garantia total de segurança, com todo o processo conduzido de acordo com os padrões jurídicos da LGPD.</li>
-                     <li class="skills__item"><i class="ri-file-upload-line icon__process"></i> Início do processo através de contrato jurídico</li>
-                     <li class="skills__item"><i class="ri-admin-line icon__process"></i> Vamos agir em sua defesa</li>
+                     <li class="skills__item"><i class="ri-shield-check-line icon__process"></i>
+                        Garantia total de segurança, com
+                        todo o processo conduzido de acordo com os padrões jurídicos da LGPD.</li>
+                     <li class="skills__item"><i class="ri-file-upload-line icon__process"></i>
+                        Início do processo através de
+                        contrato jurídico</li>
+                     <li class="skills__item"><i class="ri-admin-line icon__process"></i>
+                        Vamos agir em sua defesa</li>
                   </ol>
 
                </div>
@@ -351,9 +355,10 @@
                </h3>
 
                <p class="about__description">
-                  Como seu estou disponível e preparado para atender
-                  e te ajudar passo a passo a limpar o nome da sua empresa e recuperar sua
-                  linha de crédito, antes mesmo de pagar suas dívidas.
+                  Olá, Sou Emerson Moraes, especialista em recuperação de crédito para
+                  empresas que estão enfrentando problemas de inadimplência. Palestrante
+                  experiente, com mais de 24 anos em vendas e montagem de equipe. Atualmente
+                  localizado na cidade de Campinas/SP.
                   <br>
                </p>
 
