@@ -68,7 +68,7 @@
                </li>
 
                <li class="nav__item">
-                  <a href="#sobre" class="nav__link">
+                  <a href="#about" class="nav__link">
                      Sobre mim
                   </a>
                </li>
@@ -171,7 +171,7 @@
       </section>
 
       <!--==================== ABOUT ====================-->
-      <section class="about section" id="about">
+      <section class="about section">
          <h2 class="section__title">
          Garanta seu <span>resultado</span>
          </h2>
@@ -313,7 +313,7 @@
       </section>
 
       <!--==================== LEI ====================-->
-      <section class="home section" id="home">
+      <section class="home section">
          <div class="home__container container grid">
             <div class="home__content">
                <div class="home__data">
@@ -343,7 +343,7 @@
       </section>
 
       <!--==================== AGENDA ====================-->
-      <section class="about section" id="sobre">
+      <section class="about section" id="about">
          <div class="about__container container grid">
             <div class="about__data">
                <h2 class="section__subtitle">
