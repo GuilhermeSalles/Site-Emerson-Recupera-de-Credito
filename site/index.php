@@ -243,7 +243,7 @@
             <article class="services__card">
                <i class="ri-admin-line services__icon"></i>
                <h2 class="services__title">
-                  Suspensão das Dividas
+                  Suspensão das Dívidas
                </h2>
                <p class="services__description">
                   Qualquer dívida do seu CNPJ/CPF que esteja no SPC/SERASA/CARTÓRIO serão suspensas
