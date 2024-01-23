@@ -457,7 +457,7 @@
          </div>
 
          <span class="footer__copy">
-            &#169; Copyright Destrave. All rights reserved
+            &#169; Copyright <a href="https://seudestrave.com.br/" style="color: #EDB807;">Destrave</a>. All rights reserved
          </span>
 
       </div>
