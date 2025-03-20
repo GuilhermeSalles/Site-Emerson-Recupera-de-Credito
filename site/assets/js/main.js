@@ -82,3 +82,21 @@ sr.reveal('.home__image', {origin: 'bottom'});
 sr.reveal('.about__data, .skills__data', {origin: 'left'});
 sr.reveal('.about__image, .skills__content', {origin: 'right'});
 sr.reveal('.services__card, .projects__card', {interval: 100});
+
+// Obtém o botão
+var mybutton = document.getElementById("myBtn");
+
+// Quando o usuário rolar para baixo 20px da parte superior da página, mostra o botão
+window.onscroll = function() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+};
+
+// Quando o usuário clica no botão, rola para o topo da página
+mybutton.onclick = function() {
+  document.body.scrollTop = 0; // Para Safari
+  document.documentElement.scrollTop = 0; // Para Chrome, Firefox, IE e Opera
+};
