@@ -1,6 +1,6 @@
 
 # Site Emerson Recupera de Crédito
-
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/GuilhermeSalles/Site-Emerson-Recupera-de-Credito/blob/main/LICENSE)
 ## Visão Geral
 Este projeto consiste no desenvolvimento de um site para Emerson Recupera de Crédito, uma empresa especializada em recuperação de créditos. O site visa proporcionar uma interface amigável e informativa para os clientes, destacando os serviços oferecidos e facilitando o contato com a empresa.
 
